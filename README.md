@@ -14,5 +14,6 @@ Bir videonun altına anahtar kelimeyi yazdıysan, DM'den gelen link seni buradak
 | ANALİZ | [analiz.md](analiz.md) | Kaydettiğin reels'leri Claude'a izletip veritabanı yapmak |
 | ALTYAZI | [altyazi.md](altyazi.md) | Bilgisayarında ücretsiz altyazı: whisper.cpp |
 | USTA | [usta.md](usta.md) | Ustalar için kaçan aramaları yapay zekayla yakalamak |
+| STÜDYO | [studyo.md](studyo.md) | Abonelik ödemeden yapay zeka video stüdyosu: Open Generative AI |
 
 Bunun gibi gurme bilgiler için takip et 👉 [@mert.builds](https://www.instagram.com/mert.builds/)
