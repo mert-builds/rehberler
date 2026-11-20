@@ -16,5 +16,6 @@ Bir videonun altına anahtar kelimeyi yazdıysan, DM'den gelen link seni buradak
 | USTA | [usta.md](usta.md) | Ustalar için kaçan aramaları yapay zekayla yakalamak |
 | STÜDYO | [studyo.md](studyo.md) | Abonelik ödemeden yapay zeka video stüdyosu: Open Generative AI |
 | KAMERA | [kamera.md](kamera.md) | Yapay zeka videoda kamerayı yönetmek: 77 hazır kamera komutu |
+| DMBOT | [dmbot.md](dmbot.md) | ManyChat'in açık kaynak alternatifi: OpenReply |
 
 Bunun gibi gurme bilgiler için takip et 👉 [@mert.builds](https://www.instagram.com/mert.builds/)
