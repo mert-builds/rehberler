@@ -18,5 +18,6 @@ Bir videonun altına anahtar kelimeyi yazdıysan, DM'den gelen link seni buradak
 | KAMERA | [kamera.md](kamera.md) | Yapay zeka videoda kamerayı yönetmek: 77 hazır kamera komutu |
 | DMBOT | [dmbot.md](dmbot.md) | ManyChat'in açık kaynak alternatifi: OpenReply |
 | KLİP | [klip.md](klip.md) | Yayınlardaki en iyi anları otomatik kesmek: GTAHunter6 |
+| GTA6 | [gta6.md](gta6.md) | GTA 6 yayınlarından otomatik klip: GTAHunter6'yı Claude'a kurdurmak |
 
 Bunun gibi gurme bilgiler için takip et 👉 [@mert.builds](https://www.instagram.com/mert.builds/)
