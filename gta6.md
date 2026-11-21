@@ -132,7 +132,7 @@ Kullanıcıdan bitmiş bir yayının linkini iste: `https://www.twitch.tv/videos
 .venv/bin/python -m gtahunter6.cli "YAYIN_LINKI" --detect-only
 ```
 
-Bu adım video kesmez, sadece sohbeti indirip anları bulur. Uzun yayınlarda sohbet indirmesi birkaç dakika sürebilir; kullanıcıya beklediğini söyle.
+Bu adım video kesmez, sadece sohbeti indirip anları bulur. Sohbet indirmesi uzun sürebilir: 7 saatlik bir Twitch yayınında (65 bin mesaj) yaklaşık 40 dakika sürdü. Kullanıcıya beklediğini ve ilerlemeyi (`chat 120/421 min` satırları) söyle; tekrar çalıştırınca sohbet yeniden indirilmez.
 
 Kontrol: `out/` altında yayının klasörü oluşmalı; içinde `clips.csv` ve `chat-density.png` olmalı.
 
