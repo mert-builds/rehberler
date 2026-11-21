@@ -17,5 +17,6 @@ Bir videonun altına anahtar kelimeyi yazdıysan, DM'den gelen link seni buradak
 | STÜDYO | [studyo.md](studyo.md) | Abonelik ödemeden yapay zeka video stüdyosu: Open Generative AI |
 | KAMERA | [kamera.md](kamera.md) | Yapay zeka videoda kamerayı yönetmek: 77 hazır kamera komutu |
 | DMBOT | [dmbot.md](dmbot.md) | ManyChat'in açık kaynak alternatifi: OpenReply |
+| KLİP | [klip.md](klip.md) | Yayınlardaki en iyi anları otomatik kesmek: GTAHunter6 |
 
 Bunun gibi gurme bilgiler için takip et 👉 [@mert.builds](https://www.instagram.com/mert.builds/)
